@@ -174,7 +174,7 @@
 <div align="center">
  <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
 <a href="https://open.spotify.com/album/22pfCAdDOgyC2JfSi5OwxT?si=wZtA1RZRRjma6O4lswDZpw">
-<img src="https://pbs.twimg.com/profile_images/1117861862136266753/yLcCO-QX_400x400.png" >
+<!-- <img src="https://pbs.twimg.com/profile_images/1117861862136266753/yLcCO-QX_400x400.png" > -->
 </a>
 </div>
   </td>
