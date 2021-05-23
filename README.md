@@ -1,8 +1,8 @@
-<img src="hey there.png">
+<img src="https://github.com/amsac/amsac/blob/main/GREEN%20NOT%20GREED.png">
 
 
 
-[![Website](https://github.com/amsac/amsac/blob/main/GREEN%20NOT%20GREED.png](/)
+
 
 ## I'm Akhil Vinayak.  
 
