@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/465/367/746/think-outside-the-box-popular-quotes-black-4k-wallpaper-preview.jpg">
+<img src="https://c4.wallpaperflare.com/wallpaper/465/367/746/think-outside-the-box-popular-quotes-black-4k-wallpaper-preview.jpg" width="90%">
 
 
 
