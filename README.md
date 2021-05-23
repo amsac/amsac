@@ -4,7 +4,7 @@
 
 
 
-## I'm Akhil Vinayak.  
+## I'm Akhil Vinayak  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-<h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
+<!-- <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
  
 
 
@@ -140,7 +140,7 @@
 <!--<img align="left" src="https://wakatime.com/share/@proghead00/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
 <img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
 
-
+ -->
 <a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react" />
 </a>
@@ -199,5 +199,5 @@
 </p>
 
 
-
+[![Header](https://coverfiles.alphacoders.com/495/49570.png "Header")](#)
 
