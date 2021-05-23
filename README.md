@@ -8,10 +8,10 @@
 
 
 
-- 🔭 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m currently working on MERN stack, Docker, K8s & Azure
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Get deep into DSA, web development, start out competitive programming, contribute to Open Source projects and survive this pandemic!
-- ⚡Facts about me: I listen to alternative and progressive rock; I binge-watch anime and movies, series, and sometimes even read comics!
+- ⚡Facts about me: I listen to sufi and karnatik music; I binge-watch anime and movies, series, and sometimes even read comics!
 
 
 ---
@@ -22,10 +22,11 @@
 
 ---
 
-## My Internship Experiences
+## My Experiences
 | Company        | Postion          | Duration
 | :------------- | :----------: | :----------: 
-| Promenant Innovation Labs | Web Developer Intern  | September-October 2020
+| Infosys | Web Developer  | Aug 2015- Jan 2019
+| EY | Fullstack dev| 2019 Jan -
 ---
 
 
