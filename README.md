@@ -104,7 +104,7 @@
 <!-- stats A++ -->
 
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+<!-- <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
 
 <!--NEW top lang
 <a href="https://github.com/proghead00/proghead00">
@@ -119,7 +119,7 @@
 
 
 
-
+<!-- 
 <br>
 
  [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) 
@@ -128,7 +128,7 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
-
+ -->
 
 <!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Ultimate-JS-Projects-Collection)-->
 
@@ -141,12 +141,12 @@
 <img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
 
  -->
-<a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
+<!-- <a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react" />
 </a>
 <a href="https://github.com/proghead00/Aiden-AI-News-App">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react" />
-</a>
+</a> -->
 
 
 
