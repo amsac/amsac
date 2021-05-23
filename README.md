@@ -162,14 +162,14 @@
 
  <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
 
   </td>
-  <td width="50%">
+<!--   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/track/6D17ZfWe6kCi2BS563dMc7?si=oR6NyjbISaeu06qN7O2m7Q)
+&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/track/6D17ZfWe6kCi2BS563dMc7?si=oR6NyjbISaeu06qN7O2m7Q) -->
 
 <!-- <div align="center"> 
  <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
@@ -177,7 +177,7 @@
 <!-- <img src="https://pbs.twimg.com/profile_images/1117861862136266753/yLcCO-QX_400x400.png" > -->
 <!-- </a>
 </div> --> 
-  </td>
+<!--   </td> -->
   </table>
 
 
