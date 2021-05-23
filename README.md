@@ -1,3 +1,6 @@
+<!-- I've used help of multiple developers, in creating this readme file. so feel free to use this template without asking me, live long and prosper
+ -->
+
 <img src="https://github.com/amsac/amsac/blob/main/Screenshot%202021-05-23%20at%204.15.03%20PM.png" width="100%">
 
 
